@@ -1,8 +1,4 @@
 # AntiVirusCTS
-Codul va fi versionat în git și încărcat într-un repository public folosind o platformă la alegerea
-voastră: GitHub, GitLab, BitBucket, Azure Repos etc. În cadrul assignmentului de pe
-online.ase.ro veți încărca un link către repo-ul creat unde codul va fi versionat, chiar dacă
-acesta nu este complet încă. (nu este permisă crearea și utilizarea a 2 repo-uri separate)
 Trecute sunt vremurile în care pericolul suprem era să ți se fure parola de la yahoo... Astăzi,
 atacurile vin din toate direcțiile: hackerii, malware, ransomware, rețelele Wi-Fi dubioase de la
 mall și colegii care „accidental” îți instalează jocuri de pe site-uri shady. În acest haos digital,
